@@ -1,6 +1,6 @@
 # Kaggle-Data-Science-Code
 
-This is a compelation of all Kaggle data science challanges I attempt.
+This is a compilation of all Kaggle data science challanges I have attempted.
 
 
 ## Formating 
